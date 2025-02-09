@@ -1,8 +1,6 @@
 # E-Commerce-Backend-System
 A Complete end to end E-Commerce Backend System
 
-# E-Commerce Backend System
-
 ## Overview
 This project is a backend system for an e-commerce platform built with Java, Spring Boot, JPA, and JWT authentication. It provides RESTful APIs for user management, product catalog, shopping cart, and order processing.
 
